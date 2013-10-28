@@ -4,7 +4,16 @@ cliPermission
 Viewing folder and files permission just like using in chmod
 
 
+USAGE
+=====
 
+Simply execute the file via Terminal e.g. bash permission.sh .
+
+For more details, checkout my blog: http://www.snip-code.blogspot.com/2013/10/view-folder-and-files-permission-numerically.html
+
+
+LICENSE
+=======
 
 
 The MIT License
